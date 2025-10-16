@@ -12,7 +12,9 @@ Este proyecto implementa un sistema básico de comunicación Cliente-Servidor TC
 
 ### Servidor
 
+<img width="850" height="256" alt="image" src="https://github.com/user-attachments/assets/4132b4fb-da0e-49b3-9e87-df26aa244020" />
 
 
 ### Cliente
 
+<img width="850" height="256" alt="image" src="https://github.com/user-attachments/assets/5856f3a0-3c9f-4c8a-9af6-b5a41f2f02d1" />
